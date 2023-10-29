@@ -1,0 +1,2 @@
+You must use `bundle exec middleman ...` to run command susing the local
+vendored dependencies.
